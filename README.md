@@ -1,10 +1,10 @@
-# poxtxml-beml
+# postxml-beml
 [![npm version][npm-image]][npm-url]
 
 > [PostXML] plugin for processing [BEML][beml] templates
 
 ## Installation
-`npm i poxtxml-beml --save-dev`
+`npm i postxml-beml --save-dev`
 
 ## How to use
 
@@ -12,7 +12,7 @@
 ```js
 var fs = require('fs'),
    postxml = require('postxml'),
-   plugin = require('poxtxml-beml');
+   plugin = require('postxml-beml');
 
 var html = fs.readFileSync('input.html', 'utf8');
 
@@ -132,5 +132,5 @@ MIT
 [PostXML]: https://github.com/postxml/postxml
 [beml]: https://github.com/zenwalker/node-beml
 
-[npm-url]: https://www.npmjs.org/package/poxtxml-beml
-[npm-image]: http://img.shields.io/npm/v/poxtxml-beml.svg?style=flat-square
+[npm-url]: https://www.npmjs.org/package/postxml-beml
+[npm-image]: http://img.shields.io/npm/v/postxml-beml.svg?style=flat-square

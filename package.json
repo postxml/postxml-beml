@@ -1,5 +1,5 @@
 {
-  "name": "poxtxml-beml",
+  "name": "postxml-beml",
   "version": "0.1.0",
   "description": "Postxml plugin which extend HTML syntax for comfortable working with bem html.",
   "main": "index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/postxml/poxtxml-beml.git"
+    "url": "git+https://github.com/postxml/postxml-beml.git"
   },
   "keywords": [
     "html",
@@ -33,7 +33,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/postxml/poxtxml-beml/issues"
+    "url": "https://github.com/postxml/postxml-beml/issues"
   },
-  "homepage": "https://github.com/postxml/poxtxml-beml#readme"
+  "homepage": "https://github.com/postxml/postxml-beml#readme"
 }

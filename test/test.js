@@ -9,7 +9,7 @@ var test = function (input, output, opts) {
     expect(proccessed).to.eql(output);
 };
 
-describe('poxtxml-beml', function () {
+describe('postxml-beml', function () {
     it('blocks', function () {
         test(
             '<div block="animals"><div block="unicorn"></div></div>',
